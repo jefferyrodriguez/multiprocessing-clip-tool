@@ -1,0 +1,1 @@
+# multiprocessing-clip-tool
